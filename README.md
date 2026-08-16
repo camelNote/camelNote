@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**camelNote/camelNote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to camelNote — a space for notes, ideas, and projects I’m building and exploring.
 
-Here are some ideas to get you started:
+<details>
+  <summary>Project highlights</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building practical tools and experiments
+- Sharing learnings through small, iterative projects
+- Improving developer workflows and productivity
+
+</details>
+
+<details>
+  <summary>Currently working on</summary>
+
+- Expanding camelNote project ideas
+- Exploring better project structure and documentation
+- Iterating on maintainable, minimal solutions
+
+</details>
+
+<details>
+  <summary>Contact</summary>
+
+- Open an issue or discussion in this repository
+
+</details>
