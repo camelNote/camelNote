@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="images/profile01.jpg"></img><br>
 Welcome to camelNote — a space for notes, ideas, and projects I’m building and exploring.
 
 <details>
