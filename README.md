@@ -1,6 +1,6 @@
+
 ## Hi there 👋
-<img src="images/profile01.jpg"></img><br>
-Welcome to camelNote — a space for notes, ideas, and projects I’m building and exploring.
+<blockquote>If you follow the most optimal path, the gradient towards the steepest ascent, you're guarenteed to reach a maximum. Whether it's the global maximum is another question, one unanswerable unless you find all the other peaks. -- Calculus II</blockquote>
 
 <details>
   <summary>Project highlights</summary>
