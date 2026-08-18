@@ -7,8 +7,6 @@
 
 I'm Labib, a Electrical Engineering student @ University of British Columbia, and I like to build things that are both exciting and useful. I'm an advocate for using opensource software & hardware, as I beleive accessible tech is the best way to drive innovation.
 
-My project reportoire is fairly diverse: from PCB design & CAD work to python games and webdev. 
-
 If you're curious, feel free to drop by my website [labibkow.com](https://www.labibkow.com/) for more info! Or peruse through my github repos 😃.
 
 <details>
