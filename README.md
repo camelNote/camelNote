@@ -1,17 +1,15 @@
 
-## Hi there 👋
-
+<img src="images/GithubBanner.png"></img>
+<h2>Hi there! 👋</h2>
 <blockquote>If you follow the most optimal path, the gradient towards the steepest ascent, you're guarenteed to reach a maximum. Whether it's the global maximum is another question; which you won't know unless you find all the other peaks. -- Calculus III 
 </blockquote>
 <br>
 
-I'm Labib, a Electrical Engineering student @ University of British Columbia, and I like to build things that are both fun and useful. I'm an advocate for using opensource software & hardware, as I beleive accessible tech is the best way to drive innovation.
-
-<br>
+I'm Labib, a Electrical Engineering student @ University of British Columbia, and I like to build things that are both exciting and useful. I'm an advocate for using opensource software & hardware, as I beleive accessible tech is the best way to drive innovation.
 
 My project reportoire is fairly diverse: from PCB design & CAD work to python games and webdev. 
 
-If you're curious, feel free to drop by my website [labibkow.com](https://www.labibkow.com/).
+If you're curious, feel free to drop by my website [labibkow.com](https://www.labibkow.com/) for more info! Or peruse through my github repos 😃.
 
 <details>
   <summary><h3>Currently working on</h3></summary>
