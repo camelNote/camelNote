@@ -10,19 +10,12 @@ I'm Labib, a Electrical Engineering student @ University of British Columbia, an
 If you're curious, feel free to drop by my website [labibkow.com](https://www.labibkow.com/) for more info! Or peruse through my github repos 😃.
 
 <details>
-  <summary><h3>Currently working on</h3></summary>
+  <summary><h3>Current Projects</h3></summary>
 
 - RSVP Pocket: An STM32F4 e-reader that utilizes Rapid Serial Visual Presentation technique for speed reading. And as the name suggests, it fits in your pocket!
 
 - ESP32 musicPlayer: Kind of like a mp3 player, but has a 2.4" TFT display and play short video clips. Pretty difficult with a 240 MHz, so this project is mostly about optimizing memory usage and processing time!
 
 - labibkow.com rework: Built on Next.js framework from 2023, and needs a bunch of security and performance updates. Will also add a new landing page.
-
-</details>
-
-<details>
-  <summary><h3>Contact</h3></summary>
-
-- Reach out on [LinkedIn](https://www.linkedin.com/in/labibkowsar/), or at [labibkow.com/contact](https://www.labibkow.com/contact)
 
 </details>
